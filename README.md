@@ -18,7 +18,7 @@
 
 <br>
 <br>
-![Alt Text](file:///C:/Users/Malba/Documents/Design/SVG/hw21.svg)
+<img src="file:///C:/Users/Malba/Documents/Design/SVG/hw21.png" />
 <br>
 <hr>
 
@@ -31,7 +31,7 @@
 <br>
 2.تعديل مكان ال TextView للنتيجة و إظهاره أسفل زر RESET بدلا من CALCULATE 
 <br>
-![Alt Text](file:///C:/Users/Malba/Documents/Design/SVG/hw22.svg)
+<img src="file:///C:/Users/Malba/Documents/Design/SVG/hw22.png" />
 <hr>
 <b>آخر موعد لرفع الكود
 
