@@ -18,7 +18,7 @@
 
 <br>
 <br>
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](C:/Users/Malba/Documents/Design/SVG/hw21.png)
 <br>
 <hr>
 
