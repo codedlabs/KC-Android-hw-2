@@ -29,11 +29,6 @@
 <br>
 2.تعديل مكان ال TextView للنتيجة و إظهاره أسفل زر RESET بدلا من CALCULATE 
 <br>
-
-&#x202b; لملء الـ Array  التي أنشأتها قبل قليل (letterGrades) باستعمال for each
-
-<br>
-<br>
 <hr>
 <b>آخر موعد لرفع الكود
 
