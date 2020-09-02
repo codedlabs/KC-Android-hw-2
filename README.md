@@ -19,7 +19,6 @@
 <br>
 <br>
 // image 1
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
 <br>
 <hr>
 
