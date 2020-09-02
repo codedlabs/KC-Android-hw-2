@@ -18,7 +18,7 @@
 
 <br>
 <br>
-
+![Alt Text](https://ibb.co/w0HNtsr)
 <br>
 <hr>
 
@@ -31,7 +31,7 @@
 <br>
 2.تعديل مكان ال TextView للنتيجة و إظهاره أسفل زر RESET بدلا من CALCULATE 
 <br>
-// image 2
+![Alt Text](https://ibb.co/MGhYqcB)
 <hr>
 <b>آخر موعد لرفع الكود
 
