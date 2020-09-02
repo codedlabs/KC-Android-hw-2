@@ -18,7 +18,7 @@
 
 <br>
 <br>
-![alt text](https://drive.google.com/file/d/18fKAeR2mRMMzJeGjcZtMUn2hNUY1BMxt/view)
+<img src = "https://drive.google.com/file/d/18fKAeR2mRMMzJeGjcZtMUn2hNUY1BMxt/view" width="100px"/>
 <br>
 <hr>
 
