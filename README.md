@@ -32,7 +32,6 @@
 2.تعديل مكان ال TextView للنتيجة و إظهاره أسفل زر RESET بدلا من CALCULATE 
 <br>
 // image 2
-![tutyut](https://github.com/bobader95/android-hw-2/blob/master/image.jpg?raw=true)
 <hr>
 <b>آخر موعد لرفع الكود
 
