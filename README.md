@@ -18,7 +18,7 @@
 
 <br>
 <br>
-<img src = "https://github.com/kuwaitcodes/android-hw-2/blob/master/Screen%20Shot%202020-05-30%20at%206.31.53%20PM.png" width = "350px" margin="auto"/>
+<img src = "https://github.com/kuwaitcodes/android-hw-2/blob/master/hw1.png" width = "350px" margin="auto"/>
 <br>
 <hr>
 
