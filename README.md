@@ -18,7 +18,7 @@
 
 <br>
 <br>
-<img src = "https://github.com/kuwaitcodes/android-hw-2/blob/master/Screen%20Shot%202020-05-30%20at%206.31.53%20PM.png" width = "180px"/>
+<img src = "https://github.com/kuwaitcodes/android-hw-2/blob/master/Screen%20Shot%202020-05-30%20at%206.31.53%20PM.png" width = "350px" margin="auto"/>
 <br>
 <hr>
 
@@ -31,7 +31,7 @@
 <br>
 2.تعديل مكان ال TextView للنتيجة و إظهاره أسفل زر RESET بدلا من CALCULATE 
 <br>
-<img src = "https://ibb.co/MGhYqcB"/>
+<img src = "https://github.com/kuwaitcodes/android-hw-2/blob/master/hw2.png" width = ""350 px" margin="auto"/>
 
 <hr>
 <b>آخر موعد لرفع الكود
