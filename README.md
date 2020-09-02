@@ -18,7 +18,7 @@
 
 <br>
 <br>
-![alt text](https://lh4.googleusercontent.com/mIZjPvJo703w5TVwZMBH6Hbf8am18y97GALSs2tFRLP882sZB7fbUiMGBhzkruKKs607BXV6GTiMPVMNlmezvM-r_eThbG9yCtVt--8lpQNos2JPc4SzEVxolpkO09MvbPpYTEUzMjk)
+
 <br>
 <hr>
 
