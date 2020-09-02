@@ -34,7 +34,9 @@
 2.تعديل مكان ال TextView للنتيجة و إظهاره أسفل زر RESET بدلا من CALCULATE 
 <br>
 <br>
+<p align="center">
 <img src = "https://github.com/kuwaitcodes/android-hw-2/blob/master/hw2.png" width = ""350 px" margin="auto"/>
+  </p>                                                                                                          
 
 <hr>
 <b>آخر موعد لرفع الكود
