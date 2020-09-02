@@ -18,9 +18,9 @@
 
 <br>
 <br>
-<div style="text-align:center"
+<p align="center">
 <img src = "https://github.com/kuwaitcodes/android-hw-2/blob/master/hw1.png" width = "350px" margin="auto"/>
-</div>
+</p>
 <br>
 <hr>
 
