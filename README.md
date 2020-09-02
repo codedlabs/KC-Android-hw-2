@@ -18,12 +18,7 @@
 
 <br>
 <br>
-<img
-src=“images/SubPronouns.jpg”
-raw=true
-alt=“Subject Pronouns”
-style=“margin-right: 10px;”
-/>
+<img src = "https://ibb.co/w0HNtsr" width = "100px"/>
 <br>
 <hr>
 
@@ -36,7 +31,8 @@ style=“margin-right: 10px;”
 <br>
 2.تعديل مكان ال TextView للنتيجة و إظهاره أسفل زر RESET بدلا من CALCULATE 
 <br>
-![Alt Text](https://ibb.co/MGhYqcB)
+<img src = "https://ibb.co/MGhYqcB"/>
+
 <hr>
 <b>آخر موعد لرفع الكود
 
