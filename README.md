@@ -18,7 +18,7 @@
 
 <br>
 <br>
-<img src = "https://drive.google.com/file/d/18fKAeR2mRMMzJeGjcZtMUn2hNUY1BMxt/view" width="100px"/>
+![alt text](https://lh4.googleusercontent.com/mIZjPvJo703w5TVwZMBH6Hbf8am18y97GALSs2tFRLP882sZB7fbUiMGBhzkruKKs607BXV6GTiMPVMNlmezvM-r_eThbG9yCtVt--8lpQNos2JPc4SzEVxolpkO09MvbPpYTEUzMjk)
 <br>
 <hr>
 
